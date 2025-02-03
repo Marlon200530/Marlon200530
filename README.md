@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @marlon_nhantumbo
-- 👀 I’m interested in learn more about software development and improve my skills in this area
-- 🌱 I’m currently learning Cumputer Science and a little of web aplications development
-- 💞️ I’m looking to collaborate on open source projects
+# Olá, sou Marlon 👋
+
+Sou **desenvolvedor Backend** e estudante de **Engenharia de Software**. Estou focado em construir bases sólidas de programação, com ênfase em **estruturas de dados** e **algoritmos**. Gosto de resolver problemas criativos e desafiadores, sempre buscando maneiras inovadoras de aprimorar minhas habilidades.
+
+## 💻 Tecnologias e Ferramentas
+- **Node.js** , **C++** , **Java** e **React.js**
+- **Estruturas de Dados** e **Algoritmos**
+- **Desenvolvimento Backend**
+
+## 📚 Atualmente
+- Estudante de curso de Informática com especialização em Engenharia de Desenvolvimento de sistemas.
+
+## 🎯 Projetos Futuros
+- Inclusão digital para softwares de **idiomas tradicionais em Moçambique**.
+- Desenvolvimento de **chatbots** para **atendimento**.
+- Criação de **sistemas de e-commerce**.
+- Implementação de **aplicações de bate-papo em tempo real**.
+- **Aplicações para melhorar a fala de pessoas com gagueira**.
+
+---
+
+Vamos conectar! 
 
 
 
