@@ -3,7 +3,7 @@
 Sou **desenvolvedor Backend** e estudante de **Engenharia de Software**. Estou focado em construir bases sólidas de programação, com ênfase em **estruturas de dados** e **algoritmos**. Gosto de resolver problemas criativos e desafiadores, sempre buscando maneiras inovadoras de aprimorar minhas habilidades.
 
 ## 💻 Tecnologias e Ferramentas
-- **Node.js** , **C++** , **Java** e **React.js**
+- **Node.js** , **C++** , **Java**, **React.js***, **React Native***, **Postgres e Mysql**
 - **Estruturas de Dados** e **Algoritmos**
 - **Desenvolvimento Backend**
 
