@@ -15,7 +15,6 @@ Sou **desenvolvedor Backend** e estudante de **Engenharia de Software**. Estou f
 - Desenvolvimento de **chatbots** para **atendimento**.
 - Criação de **sistemas de e-commerce**.
 - Implementação de **aplicações de bate-papo em tempo real**.
-- **Aplicações para melhorar a fala de pessoas com gagueira**.
 
 ---
 
