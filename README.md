@@ -80,18 +80,8 @@ Gosto de transformar ideias em soluções práticas, aprender pela construção 
 - Trabalhar em aplicações de comunicação em tempo real
 - Contribuir para soluções com impacto local, incluindo inclusão digital e tecnologias para Moçambique
 
----
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marlon200530&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon200530&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Vamos conectar
+## Vamos nos conectar
 
 Estou aberto a aprender, colaborar em projectos e trocar ideias sobre desenvolvimento backend, algoritmos, sistemas e tecnologia.
 
