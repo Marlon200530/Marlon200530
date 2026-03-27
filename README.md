@@ -93,13 +93,6 @@ Gosto de transformar ideias em soluções práticas, aprender através da constr
   </a>
 </p>
 
-<!-- Opcional: testa este card novo do LeetCode se quiseres voltar a usar stats dinâmicas -->
-<!--
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jjuniorsalomao162?theme=dark&font=baloo&ext=activity" />
-</p>
--->
-
 ---
 
 ## 🎯 Objectivos
@@ -112,19 +105,6 @@ Gosto de transformar ideias em soluções práticas, aprender através da constr
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marlon200530&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon200530&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Marlon200530&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Vamos conectar
 
 Estou aberto a aprender, colaborar em projectos e trocar ideias sobre desenvolvimento backend, algoritmos, sistemas e tecnologia.
@@ -134,4 +114,17 @@ Estou aberto a aprender, colaborar em projectos e trocar ideias sobre desenvolvi
   <a href="https://www.linkedin.com/in/marlon-nhantumbo-44a60626b">LinkedIn</a> •
   <a href="https://marlondev-phi.vercel.app/">Portfólio</a> •
   <a href="https://leetcode.com/u/jjuniorsalomao162/">LeetCode</a>
+</p>
+
+<!-- OPCIONAL: activa só se o serviço estiver estável -->
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jjuniorsalomao162?theme=dark&font=baloo&ext=activity" />
+</p>
+
+<!-- OPCIONAL: github-readme-stats pode falhar na instância pública -->
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marlon200530&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon200530&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
