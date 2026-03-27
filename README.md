@@ -90,10 +90,7 @@ Gosto de transformar ideias em soluções práticas, aprender através da constr
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marlon200530&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon200530&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon200530&theme=tokyonight&hide_border=true" />
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Marlon200530&theme=tokyonight&hide_border=true" />
