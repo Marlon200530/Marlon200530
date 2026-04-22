@@ -13,57 +13,59 @@
   </a>
 </div>
 
-<h3></h3>
+<br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marlon200530.Marlon200530&" />
 </div>
 
-<h3></h3>
+<br>
 
-<h2 align="center">Olá, eu sou o Marlon 👋</h2>
+<h2 align="center">Hi, I'm Marlon 👋</h2>
 
 <p align="center">
   <strong>Backend Developer</strong> •
-  Estudante de <strong>Engenharia de Software</strong> •
-  Focado em <strong>estruturas de dados</strong>, <strong>algoritmos</strong> e <strong>sistemas escaláveis</strong>
+  <strong>Software Engineering Student</strong> •
+  Focused on <strong>Data Structures</strong>, <strong>Algorithms</strong>, <strong>APIs</strong> and <strong>Scalable Systems</strong>
 </p>
 
-<h3></h3>
+<br>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Sou <strong>Backend Developer</strong> e estudante de <strong>Engenharia de Software</strong>, com foco em construir bases sólidas de programação e resolver problemas de forma estruturada.<br><br>
-- 📚 Actualmente estou a aprofundar conhecimentos em <strong>backend</strong>, <strong>APIs</strong>, <strong>bases de dados</strong>, <strong>estruturas de dados</strong> e <strong>algoritmos</strong><br>
-- 🤖 Tenho interesse em <strong>automações</strong>, <strong>chatbots</strong>, <strong>agentes de IA</strong>, <strong>n8n</strong> e <strong>LangChain</strong><br>
-- ⚡ Gosto de transformar ideias em soluções práticas, aprender com projectos reais e melhorar continuamente a qualidade do meu código<br>
-- 🌍 Quero contribuir para soluções com impacto local, incluindo tecnologias e inclusão digital em Moçambique
+I am a <strong>Backend Developer</strong> and <strong>Software Engineering student</strong> passionate about building reliable systems, solving problems, and continuously improving my technical foundation.<br><br>
+
+- 📚 Currently improving my skills in <strong>backend development</strong>, <strong>APIs</strong>, <strong>databases</strong>, <strong>data structures</strong> and <strong>algorithms</strong><br>
+- ⚙️ I enjoy designing clean backend architectures, working with databases, and building practical software solutions<br>
+- 🤖 Interested in <strong>automation</strong>, <strong>chatbots</strong>, <strong>AI agents</strong>, <strong>n8n</strong> and intelligent workflows<br>
+- 💡 I like turning ideas into real projects, learning through hands-on experience, and writing better code every day<br>
+- 🌍 My goal is to build meaningful technology with real impact, especially for local communities and digital inclusion in Mozambique
 </p>
 
-<h3></h3>
+<br>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,cpp,java,js,react,postgres,mysql,git,github,docker,linux" height="40" alt="skills logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,cs,cpp,java,react,tailwind,postgres,mysql,git,github,docker,linux" height="40" alt="skills logo" />
 </div>
 
-<h3></h3>
+<br>
 
 <h3 align="left">🧠 LeetCode</h3>
 
 <p align="left">
-- ✅ <strong>92+ problemas resolvidos</strong><br>
-- 🎯 Foco actual: raciocínio algorítmico, complexidade temporal e resolução de problemas<br>
-- 💡 Linguagens mais usadas: <strong>C++</strong>, <strong>JavaScript</strong> e <strong>Java</strong>
+- ✅ <strong>92+ problems solved</strong><br>
+- 🎯 Current focus: algorithmic thinking, time complexity, problem-solving patterns and clean solutions<br>
+- 💡 Most used languages: <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>C#</strong> and <strong>Java</strong>
 </p>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/jjuniorsalomao162?theme=dark&font=Nunito&ext=contest" height="180" alt="leetcode stats" />
 </div>
 
-<h3></h3>
+<br>
 
 <h3 align="left">🔥 My Stats</h3>
 
@@ -72,14 +74,15 @@ Sou <strong>Backend Developer</strong> e estudante de <strong>Engenharia de Soft
   <img src="https://streakstatus.eduarte.pro?user=Marlon200530&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
 </div>
 
-<h3></h3>
+<br>
 
 <h3 align="left">🎯 Goals</h3>
 
 <p align="left">
-- Construir sistemas backend robustos e bem estruturados<br>
-- Desenvolver chatbots e automações para atendimento<br>
-- Criar agentes de Inteligência Artificial com ferramentas como <strong>n8n</strong> e <strong>LangChain</strong><br>
-- Trabalhar em aplicações de comunicação em tempo real<br>
-- Evoluir como engenheiro de software com uma base técnica forte
+- Build robust, scalable and well-structured backend systems<br>
+- Improve my problem-solving skills through algorithms and data structures<br>
+- Develop real-time communication applications using WebSockets and modern backend technologies<br>
+- Create automation systems, chatbots and AI agents using tools such as <strong>n8n</strong> and AI workflows<br>
+- Grow as a software engineer with a strong technical foundation and practical project experience<br>
+- Contribute to technology solutions that create impact in Mozambique and beyond
 </p>
